@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mybao-webapp:war">
+    <output-path>$PROJECT_DIR$/webapp/target</output-path>
+    <root id="archive" name="mybao.war">
+      <element id="artifact" artifact-name="mybao-webapp:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mybao.iml" filepath="$PROJECT_DIR$/mybao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/biz/mybao-biz.iml" filepath="$PROJECT_DIR$/biz/mybao-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facade/mybao-facade.iml" filepath="$PROJECT_DIR$/facade/mybao-facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/mybao-test.iml" filepath="$PROJECT_DIR$/test/mybao-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp/mybao-webapp.iml" filepath="$PROJECT_DIR$/webapp/mybao-webapp.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mybao-biz" />
+        <module name="mybao-facade" />
+        <module name="mybao-test" />
+        <module name="mybao-webapp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mybao" target="1.6" />
+      <module name="mybao-biz" target="1.6" />
+      <module name="mybao-facade" target="1.6" />
+      <module name="mybao-test" target="1.6" />
+      <module name="mybao-webapp" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
